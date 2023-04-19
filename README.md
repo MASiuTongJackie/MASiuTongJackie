@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+🔭 I’m currently working on robot development and AI object detection
+🌱 I’m currently learning parallel and parallel and distributed computing
+
 <!--
 **MASiuTongJackie/MASiuTongJackie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
